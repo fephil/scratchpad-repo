@@ -1,7 +1,7 @@
 # scratchpad-repo
 Used as a repo for tests
 
-** Repo generic header example **
+**Repo generic header example**
 
 # Repo Title
 
