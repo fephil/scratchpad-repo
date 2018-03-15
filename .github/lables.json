@@ -1,0 +1,17 @@
+[
+    { "name": "Priority: High", "color": "#ee0701" },
+    { "name": "Priority: Medium", "color": "#fbca04" },
+    { "name": "Priority: Low", "color": "#0e8a16" },
+    { "name": "Status: Abandoned", "color": "#000000" },
+    { "name": "Status: Available", "color": "#c2e0c6" },
+    { "name": "Status: Blocked", "color": "#ee0701" },
+    { "name": "Status: In Progress", "color": "#cccccc" },
+    { "name": "Status: On Hold", "color": "#e99695" },
+    { "name": "Status: Proposal", "color": "#d4c5f9" },
+    { "name": "Status: Review Needed", "color": "#fbca04" },
+    { "name": "Type: Bug", "color": "#ee0701" },
+    { "name": "Type: Documentation", "color": "#5319e7" },
+    { "name": "Type: Enhancement", "color": "#1d76db" },
+    { "name": "Type: Maintenance", "color": "#fbca04" },
+    { "name": "Type: Question", "color": "#cc317c" }
+]
