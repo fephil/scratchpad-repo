@@ -1,0 +1,28 @@
+{
+  "name": "scratchpad-repo",
+  "version": "1.0.0",
+  "description": "test repo",
+  "main": "index.js",
+  "dependencies": {
+    "cz-customizable": "^5.2.0"
+  },
+  "devDependencies": {},
+  "config": {
+    "commitizen": {
+      "path": "node_modules/cz-customizable"
+    }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fephil/scratchpad-repo.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fephil/scratchpad-repo/issues"
+  },
+  "homepage": "https://github.com/fephil/scratchpad-repo#readme"
+}
